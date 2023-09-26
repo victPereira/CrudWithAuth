@@ -15,3 +15,25 @@ A estrutura do projeto inclui as seguintes pastas e arquivos principais:
 - `wwwroot`: Armazena arquivos estáticos, como CSS, JavaScript e imagens.
 - `Startup.cs`: Configurações iniciais do aplicativo.
 
+## Instruções para Clonar o Projeto
+
+Siga estas etapas para clonar o projeto em seu ambiente de desenvolvimento local:
+
+1. **Pré-requisitos**
+   Certifique-se de ter os seguintes pré-requisitos instalados em seu sistema:
+   - [Git](https://git-scm.com/)
+   - [.NET SDK 7.0 ou superior](https://dotnet.microsoft.com/download/dotnet/7.0)
+
+2. **Abra o Terminal**
+   Abra um terminal em seu sistema. Você pode usar o Terminal (Linux/macOS) ou o Prompt de Comando (Windows).
+
+3. **Escolha um Diretório de Destino**
+   Navegue até o diretório onde você deseja clonar o projeto. Use o comando `cd` para acessar o diretório de sua escolha.
+
+4. **Clone o Repositório**
+   Use o seguinte comando para clonar o repositório do GitHub:
+
+   ```shell
+   git clone https://github.com/victPereira/CrudWithAuth.git
+
+
