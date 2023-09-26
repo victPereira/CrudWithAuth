@@ -1,7 +1,7 @@
 # Documentação do Sistema de Gerenciamento de Alunos e Alunos Premium
 
 ## Visão Geral
-Esta documentação descreve um sistema de gerenciamento de alunos e alunos premium desenvolvido em ASP.NET. A aplicação permite o cadastro, visualização, atualização e exclusão de informações de alunos regulares e alunos premium. O objetivo é fornecer uma visão geral completa do projeto para fins de apresentação em entrevistas e demonstração de habilidades técnicas.
+Esta documentação descreve um sistema de gerenciamento de alunos e alunos premium desenvolvido em ASP.NET. A aplicação permite o cadastro, visualização, atualização e exclusão de informações de alunos regulares e alunos premium. O objetivo é fornecer uma visão  do projeto para fins de apresentação e demonstração de habilidades técnicas.
 
 ## Pré-Requisitos
 Antes de começar a desenvolver e usar esta aplicação, certifique-se de ter os seguintes pré-requisitos instalados em seu ambiente de desenvolvimento:
